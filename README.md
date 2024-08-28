@@ -12,13 +12,11 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;6+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;8+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
   </a>
 </p>
 
 <div>
-<br/>
-- 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
 - 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
@@ -147,21 +145,9 @@
 </table>
 <br><br>
 
-## Github Stats
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=SoftStar116&show_icons=true&&include_all_commits=true&count_private=true&theme=light&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SoftStar116&langs_count=8&layout=compact&theme=light&include_all_commits=true&line_height=27">
-  </a>
-  
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=SoftStar116&column=7&theme=light"/>
-</p>
-</p>
-</details>
-
 ## Contacts
   <div align="center"> 
-   <a href="mailto:softstar116@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+   <a href="mailto:devmaster116@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
   &nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
   &nbsp;&nbsp;
