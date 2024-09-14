@@ -1,11 +1,11 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Senior Software Engineer
+  Senior Software Engineer && Team Manager
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <p align="center">
-  <img src="https://github.com/SoftStar116/SoftStar116/blob/main/Logo.gif" />
+  <img src="https://github.com/devmaster116/devmaster116/blob/main/Logo.gif" />
 </p>
 
 <p align="center">
