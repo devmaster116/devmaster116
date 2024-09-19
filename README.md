@@ -18,7 +18,7 @@
 - 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
-- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
+- 😉 Deep knowledge about deep learning,Odoo, recommendation system and reinforcement system.</br>
 </div>
 
 # 💻 My favorite tools and technologies
